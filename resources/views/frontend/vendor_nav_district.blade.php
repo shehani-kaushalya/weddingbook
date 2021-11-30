@@ -1,0 +1,1 @@
+@include('customer.partials.region-group', ['districts' => $districts])
